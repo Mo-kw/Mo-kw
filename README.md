@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mo-kw
 - 👀 I’m interested in ML,DB,SA
-- 🌱 I’m currently learning ...
-- 📫 How to reach me mkqxxx8@gmail.com
+- 📫 How to reach memohmmed.alqallaf02@gmail.com
 - 😄 Pronouns: Mo
 
 <!---
